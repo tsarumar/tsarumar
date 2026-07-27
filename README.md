@@ -1,25 +1,32 @@
-## Omar Zid
+<div align="center">
 
-Informatics student at 1 Decembrie 1918 University in Alba Iulia, Romania, currently on a summer development internship in Madrid.
+# Omar Zid
 
-Most of what I build is small desktop tools in Python. I like programs that solve one problem properly and run without a server, an installer, or a cloud account behind them.
+**Informatics student · Python and small desktop tools · Romania**
 
-### What I have been building
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-zid-83983b273/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neeezomargamer12@gmail.com)
 
-Weekly internship projects. Each one is self-contained, has a GUI or a menu, and a README that explains how to run it.
+</div>
 
-**[Smart File Organizer](https://github.com/tsarumar/Smart-File-Organizer)** — sorts a messy folder into subfolders by file type. Logs every move and can undo the whole run.
+---
 
-**[File Backup Logger](https://github.com/tsarumar/File-Backup-Logger)** — versioned folder backups, plain copy or zipped, with a timestamped log of what was copied and how long it took.
+### About
 
-**[Record Management System](https://github.com/tsarumar/Record-Management-System)** — command-line tool for managing records. Add, search, edit, delete, sort, export to CSV.
+Informatics student at 1 Decembrie 1918 University in Alba Iulia, currently on a summer development internship in Madrid.
 
-**[Password Vault](https://github.com/tsarumar/Password-Vault)** — password manager built on Fernet encryption and SQLite, locked behind a master password that is never stored anywhere.
+Most of what I build is small desktop software in Python. I like programs that solve one problem properly and run without a server, an installer, or a cloud account behind them.
 
 ### Working with
 
-Python · SQLite · tkinter · Git · Java · SQL · HTML, CSS, JavaScript
+`Python` `SQLite` `tkinter` `Git` `Java` `SQL` `HTML` `CSS` `JavaScript`
 
-### Elsewhere
+### Languages
 
-[LinkedIn](https://www.linkedin.com/in/omar-zid) · [neeezomargamer12@gmail.com](mailto:neeezomargamer12@gmail.com)
+Arabic (native) · English (C1) · Romanian (A2)
+
+---
+
+<div align="center">
+<sub>Open to junior and working-student roles across the EU.</sub>
+</div>
