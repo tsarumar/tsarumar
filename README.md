@@ -4,7 +4,7 @@
 
 **Informatics student · Python and small desktop tools · Romania**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-zid-83983b273/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsarumar/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neeezomargamer12@gmail.com)
 
 </div>
@@ -23,7 +23,7 @@ Most of what I build is small desktop software in Python. I like programs that s
 
 ### Languages
 
-Arabic (native) · English (C1) · Romanian (A2)
+Arabic (native) · English (C1)
 
 ---
 
