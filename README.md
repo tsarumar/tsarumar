@@ -1,12 +1,14 @@
 <div align="center">
 
-# Omar Zid
+<img src="assets/banner.jpg" width="100%" alt="Omar Zid. Websites, web apps and desktop tools.">
 
-**I build websites, web apps and desktop tools for real people and real businesses.**
+<br>
 
-Based in Romania · TypeScript, Next.js, Supabase, Cloudflare and Python
+<a href="https://www.linkedin.com/in/omarzid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:tsarumarr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/tsarumar/tsarumar/blob/main/Omar%20Zid%20-%20CV%20-%20General.pdf"><img src="https://img.shields.io/badge/CV-D4A017?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV"></a>
 
-[LinkedIn](https://www.linkedin.com/in/omarzid/) · [Email](mailto:neeezomargamer12@gmail.com) · [CV](https://github.com/tsarumar/tsarumar/blob/main/Omar%20Zid%20-%20CV%20-%20General.pdf)
+<img src="assets/stack.svg" width="100%" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Supabase, Cloudflare, Python, PHP, MySQL, SQLite and Unity">
 
 </div>
 
@@ -14,76 +16,96 @@ Based in Romania · TypeScript, Next.js, Supabase, Cloudflare and Python
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://tahrirat.net"><img src="assets/projects/tahrirat.jpg" width="100%" alt="Tahrirat.net home page"></a>
-<h3>Tahrirat.net</h3>
-Production Arabic learning platform with courses, protected lessons, payments, recitation submissions and a full admin dashboard. Built and shipped solo.
+<td width="50%" valign="top" align="center">
+<a href="https://tahrirat.net"><img src="assets/projects/tahrirat.gif" width="100%" alt="Scrolling through the Tahrirat.net home page and its courses"></a>
 <br><br>
-<sub>Next.js · TypeScript · Supabase</sub>
-<br>
+<b>Tahrirat.net</b><br>
+Arabic learning platform, built and shipped solo<br>
 <a href="https://tahrirat.net">Live site</a> · <a href="https://github.com/tsarumar/tahrirat-case-study">Case study</a>
 </td>
-<td width="50%" valign="top">
-<a href="https://paso-spanish.pages.dev/"><img src="assets/projects/paso.jpg" width="100%" alt="Paso lesson path"></a>
-<h3>Paso</h3>
-A seven-day beginner Spanish course with recorded audio, speaking and review practice, offline study and optional private progress sync.
+<td width="50%" valign="top" align="center">
+<a href="https://paso-spanish.pages.dev/"><img src="assets/projects/paso.gif" width="100%" alt="Opening the first lesson in Paso"></a>
 <br><br>
-<sub>TypeScript · Cloudflare</sub>
-<br>
+<b>Paso</b><br>
+Seven-day Spanish course with recorded audio<br>
 <a href="https://paso-spanish.pages.dev/">Live app</a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://relay-privat.vercel.app"><img src="assets/projects/relay.jpg" width="100%" alt="Relay home page"></a>
-<h3>Relay</h3>
-Student mobility app that puts Erasmus+ partner universities on a map and turns a PDF timetable into a weekly schedule, with a step-by-step guide.
+<td width="50%" valign="top" align="center">
+<a href="https://shotbox-site-preview.neeezomargamer12.workers.dev"><img src="assets/projects/shotbox.gif" width="100%" alt="Scrolling through the SHOTBOX Site page"></a>
 <br><br>
-<sub>Next.js · Prisma · Leaflet</sub>
-<br>
-<a href="https://relay-privat.vercel.app">Live app</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://shotbox-site-preview.neeezomargamer12.workers.dev"><img src="assets/projects/shotbox.jpg" width="100%" alt="SHOTBOX Site home page"></a>
-<h3>SHOTBOX Site</h3>
-Construction workspace in Romanian, English and Arabic. One daily report updates progress, attendance, materials and a client-ready summary.
-<br><br>
-<sub>TypeScript · Cloudflare D1</sub>
-<br>
+<b>SHOTBOX Site</b><br>
+Daily reports for construction sites<br>
 <a href="https://shotbox-site-preview.neeezomargamer12.workers.dev">Live preview</a>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://bistro-grai.vercel.app"><img src="assets/projects/bistro.gif" width="100%" alt="Scrolling through the Bistro GRAI website"></a>
+<br><br>
+<b>Bistro GRAI</b><br>
+Bilingual restaurant website in Alba Iulia<br>
+<a href="https://bistro-grai.vercel.app">Live site</a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://tsarumar.github.io/esn-erasmus-preview/"><img src="assets/projects/erasmus.jpg" width="100%" alt="Erasmus+ planning tools for ESN Alba Iulia"></a>
-<h3>Erasmus+ Planning Tools</h3>
-A guided browser toolkit for ESN Alba Iulia that helps students compare destinations, understand funding and prepare for their stay.
+<td width="50%" valign="top" align="center">
+<a href="https://tsarumar.github.io/esn-erasmus-preview/"><img src="assets/projects/erasmus.gif" width="100%" alt="Moving through the steps of the Erasmus+ planning tools"></a>
 <br><br>
-<sub>HTML · CSS · JavaScript</sub>
-<br>
-<a href="https://tsarumar.github.io/esn-erasmus-preview/">Live preview</a> · <a href="https://github.com/tsarumar/esn-erasmus-preview">Repository</a>
+<b>Erasmus+ Planning Tools</b><br>
+Step-by-step guide for ESN Alba Iulia students<br>
+<a href="https://tsarumar.github.io/esn-erasmus-preview/">Live preview</a> · <a href="https://github.com/tsarumar/esn-erasmus-preview">Code</a>
 </td>
-<td width="50%" valign="top">
-<a href="https://bistro-grai.vercel.app"><img src="assets/projects/bistro-grai.jpg" width="100%" alt="Bistro GRAI home page"></a>
-<h3>Bistro GRAI</h3>
-A bilingual restaurant website for a bistro in Alba Iulia, with the menu, directions and quick ways to call or message for a reservation.
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/tsarumar/Online-Chess-Game"><img src="assets/projects/chess.gif" width="100%" alt="A game of chess played through to checkmate"></a>
 <br><br>
-<sub>HTML · JavaScript</sub>
-<br>
-<a href="https://bistro-grai.vercel.app">Live site</a>
+<b>Online Chess Game</b><br>
+Browser chess with every rule, no libraries<br>
+<a href="https://github.com/tsarumar/Online-Chess-Game">Code</a>
 </td>
 </tr>
 </table>
 
-## Smaller builds
+## More projects
 
-Public projects you can clone and run.
-
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [File Search Indexer](https://github.com/tsarumar/File-Search-Indexer) | Indexes a folder tree and searches 40,000 files in about six milliseconds | Python, SQLite |
-| [Online Chess Game](https://github.com/tsarumar/Online-Chess-Game) | Two-player browser chess with every rule, from castling to stalemate | JavaScript |
-| [eShop](https://github.com/tsarumar/eShop-with-PHP-and-JavaScript) | Online store with customer and seller accounts, cart and checkout | PHP, MySQL |
-| [Password Vault](https://github.com/tsarumar/Password-Vault) | Desktop password manager with encrypted storage and a master password | Python, SQLite |
-| [Log File Analyzer](https://github.com/tsarumar/Log-File-Analyzer) | Finds repeating errors in log files, draws charts and exports reports | Python |
-| [Media Library Tracker](https://github.com/tsarumar/Media-Library-Tracker) | Local catalogue for your books, films, series, games and albums | Python, SQLite |
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/tsarumar/File-Search-Indexer"><img src="assets/projects/fsi.jpg" width="100%" alt="File Search Indexer window"></a>
+<br>
+<a href="https://github.com/tsarumar/File-Search-Indexer"><b>File Search Indexer</b></a><br>
+<sub>Python · SQLite</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/tsarumar/eShop-with-PHP-and-JavaScript"><img src="assets/projects/eshop.jpg" width="100%" alt="eShop product page"></a>
+<br>
+<a href="https://github.com/tsarumar/eShop-with-PHP-and-JavaScript"><b>eShop</b></a><br>
+<sub>PHP · MySQL</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/tsarumar/Log-File-Analyzer"><img src="assets/projects/logs.jpg" width="100%" alt="Log File Analyzer window"></a>
+<br>
+<a href="https://github.com/tsarumar/Log-File-Analyzer"><b>Log File Analyzer</b></a><br>
+<sub>Python</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/tsarumar/Media-Library-Tracker"><img src="assets/projects/media.jpg" width="100%" alt="Media Library Tracker window"></a>
+<br>
+<a href="https://github.com/tsarumar/Media-Library-Tracker"><b>Media Library Tracker</b></a><br>
+<sub>Python · SQLite</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/tsarumar/Password-Vault"><img src="assets/projects/vault.jpg" width="100%" alt="Password Vault lock screen"></a>
+<br>
+<a href="https://github.com/tsarumar/Password-Vault"><b>Password Vault</b></a><br>
+<sub>Python · SQLite</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/tsarumar/Smart-File-Organizer"><img src="assets/projects/organizer.jpg" width="100%" alt="Smart File Organizer window"></a>
+<br>
+<a href="https://github.com/tsarumar/Smart-File-Organizer"><b>Smart File Organizer</b></a><br>
+<sub>Python</sub>
+</td>
+</tr>
+</table>
